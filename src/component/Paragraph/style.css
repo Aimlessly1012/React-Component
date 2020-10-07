@@ -1,0 +1,14 @@
+.Paragraph-container {
+  position: relative;
+}
+
+.Paragraph-text {
+  word-break: break-all;
+}
+
+.Paragraph-fold {
+  cursor: pointer;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
